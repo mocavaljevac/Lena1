@@ -4,5 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="2016\DECEMBAR\TUMBS_LENA\Pete_slike_u_TUMBS_LENA\" />
+  </ItemGroup>
+
 
 </Project>
